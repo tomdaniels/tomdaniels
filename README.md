@@ -1,4 +1,4 @@
-# hello world 🧑‍💻 ☕
+# Neato 🧑‍💻 ☕
 
 <!--
 ![img.jpeg](./img.jpeg)
