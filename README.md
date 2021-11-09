@@ -1,4 +1,4 @@
-# Oh, hello 🧑‍💻 ☕
+# hello world 🧑‍💻 ☕
 
 <!--
 ![img.jpeg](./img.jpeg)
