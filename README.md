@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       62 hrs 33 mins  ████████████████▒░░░░░░░░   65.25 %
-Kotlin           16 hrs 54 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.63 %
-JavaScript       5 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-SCSS             4 hrs 30 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Haskell          1 hr 37 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+TypeScript       58 hrs 17 mins  ████████████████▓░░░░░░░░   67.01 %
+Kotlin           10 hrs 37 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+JavaScript       5 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+SCSS             4 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Haskell          3 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
 ```
 
 <!--END_SECTION:waka-->
