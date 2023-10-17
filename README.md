@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        43 hrs 9 mins   █████████████████▓░░░░░░░   70.66 %
-Kotlin            7 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Gradle            2 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Groovy            2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-SQL               1 hr 53 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+TypeScript       44 hrs 42 mins  ████████████████████▒░░░░   80.77 %
+Kotlin           3 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+JavaScript       1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Groovy           1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Gradle           54 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
