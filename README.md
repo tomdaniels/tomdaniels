@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       49 hrs 37 mins  ██████████████░░░░░░░░░░░   56.62 %
-Rust             15 hrs 32 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-JavaScript       6 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-Kotlin           5 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-Lua              4 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+TypeScript       42 hrs 54 mins  ████████████▓░░░░░░░░░░░░   50.39 %
+Rust             17 hrs 6 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 %
+Kotlin           8 hrs 22 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JavaScript       6 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Lua              3 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
 ```
 
 <!--END_SECTION:waka-->
